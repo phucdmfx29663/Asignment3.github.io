@@ -1,0 +1,158 @@
+@media screen and (max-width: 910px) {
+  body {
+    font-size: 20px;
+  }
+  .imgbanner {
+    position: relative;
+
+    width: 100%;
+  }
+  #anhnen {
+    display: none;
+  }
+  .topnav div {
+    width: 100%;
+    display: block;
+    border: none;
+    padding: 10px;
+  }
+  .topnav a {
+    padding: 0;
+  }
+  .topnav {
+    display: block;
+
+    width: 100%;
+
+    justify-items: start;
+
+    margin-bottom: 120px;
+
+    .topchungchi {
+      border: none;
+    }
+
+    .topthongtin {
+      border: none;
+    }
+
+    .topduan {
+      border: none;
+    }
+
+    .toplilich {
+      border: none;
+    }
+  }
+  .phan1 {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+
+  .muctieu {
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+  .ndjob {
+    padding-top: 40px;
+  }
+  .grid1 {
+    display: grid;
+    grid-template-columns: 100%;
+    margin: 0 px;
+  }
+  .grid1 h3 {
+    padding-left: 0px;
+  }
+  .kinhnghiem {
+    margin: 15px 0px;
+  }
+  .hocvan {
+    margin: 15px 0px;
+  }
+  .hoatdong {
+    margin: 15px 0px;
+  }
+  .sothich {
+    margin: 15px 0px;
+  }
+  .ngonngu {
+    margin: 15px 0px;
+  }
+  .kynang {
+    margin: 15px 0px;
+  }
+  .flex1 {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+
+  .award {
+    background-color: #eee;
+    padding: 0px;
+  }
+
+  .box4 {
+    display: grid;
+    grid-template-columns: 100%;
+    border-right: none;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    padding-right: 50px;
+    border-bottom: 2px solid #d6c08d;
+    padding-bottom: 25px;
+    margin-top: 25px;
+  }
+
+  .box5 {
+    display: grid;
+    grid-template-columns: 100%;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #d6c08d;
+    padding-bottom: 25px;
+    margin-top: 25px;
+  }
+
+  .box6 {
+    display: grid;
+    grid-template-columns: 100%;
+    margin: 0px 0;
+    border-top: none;
+    border-bottom: 2px solid #d6c08d;
+    padding-bottom: 25px;
+    padding-top: 25px;
+  }
+
+  .ttbox p {
+    color: dimgray;
+  }
+
+  .kocogi {
+    display: none;
+  }
+  .duan {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 5%;
+    padding: 100px;
+  }
+  .duan h1 {
+    grid-column: span 1;
+  }
+  .image2 img {
+    width: 100%;
+    height: 100%;
+  }
+  .image3 img {
+    height: 100%;
+    width: 100%;
+  }
+
+  .ttct {
+    height: 725px;
+  }
+
+  .link {
+    color: #ddd;
+  }
+}

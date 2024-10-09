@@ -1,0 +1,126 @@
+body {
+  background-color: blue;
+  font-family: sans-serif;
+}
+
+.goals {
+  background-color: white;
+  border: 5px solid blue;
+  margin: 10px 0 0 10px;
+}
+.scopes {
+  background-color: white;
+  border: 5px solid blue;
+  padding: 5px;
+  margin: 5px 0 10px 10px;
+}
+.primary {
+  background-color: white;
+  border: 5px solid blue;
+  margin: 5px 0 10px 5px;
+  display: grid;
+  grid-template-rows: 21.5% 78.5%;
+}
+.part {
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
+.team {
+  background-color: white;
+  border: 5px solid blue;
+  margin: 10px 0 0 5px;
+}
+.timeline {
+  background-color: white;
+  border: 5px solid blue;
+  margin: 10px 10px 10px 5px;
+}
+h1 {
+  color: blue;
+  font-size: 24px;
+  border-bottom: 3px solid #ddd;
+  padding: 10px 0;
+  margin: 10px;
+}
+
+.icon {
+  display: grid;
+  grid-template-columns: 10% 90%;
+}
+.goals1 {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  margin: 10px;
+}
+.goals2 {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  margin: 10px;
+}
+.goals3 {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  margin: 10px;
+}
+
+.daydoing {
+  border-bottom: 2px dashed #00f2ff;
+  padding: 0 10px;
+  margin-bottom: 35px;
+}
+.lobby {
+  display: grid;
+  grid-template-columns: 50% 25% 25%;
+}
+.lobby1 {
+  display: grid;
+  grid-template-rows: 60% 40%;
+}
+.lobby2 {
+  display: grid;
+  grid-template-rows: 60% 40%;
+}
+
+.primary p {
+  margin: 0 15px;
+  margin-bottom: 35px;
+}
+
+.team div {
+  margin: 10px;
+}
+
+.team h3 {
+  margin: 0 0 18.72px 0;
+}
+
+.chung {
+  display: grid;
+  grid-template-columns: 52% 48%;
+}
+
+.in {
+  padding-left: 25px;
+}
+.out {
+  padding-left: 0px;
+}
+
+.sm-icon {
+  font-size: 35px;
+  justify-self: center;
+  align-self: center;
+  padding-top: 5px;
+  padding-left: 5px;
+  border: 3px solid #6d6e6e;
+  border-radius: 50%;
+  background-color: #9e88e1;
+  width: 48px;
+  height: 48px;
+  color: #ddd;
+}
+
+.group {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}

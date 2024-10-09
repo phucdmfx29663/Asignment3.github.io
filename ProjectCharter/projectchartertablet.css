@@ -1,0 +1,87 @@
+@media screen and (max-width: 1200px) and (min-width: 910px) {
+  .lobby {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+  .lobby1 {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+
+  .goals {
+    background-color: white;
+    border: 5px solid blue;
+    margin: 0px;
+    padding: 0px 25px;
+    padding-bottom: 75px;
+  }
+  .scopes {
+    background-color: white;
+    border: 5px solid blue;
+    padding: 5px;
+    margin: 0px;
+  }
+  .primary {
+    background-color: white;
+    border: 5px solid blue;
+    margin: 0px;
+    padding: 0px 25px;
+  }
+  .team {
+    background-color: white;
+    border: 5px solid blue;
+    margin: 0px;
+    padding: 0px 25px;
+    padding-bottom: 100px;
+  }
+  .timeline {
+    background-color: white;
+    border: 5px solid blue;
+    margin: 0px;
+    padding: 0px 25px;
+  }
+
+  .chung {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+
+  .out {
+    padding-left: 25px;
+  }
+
+  .icon svg {
+    justify-self: center;
+  }
+
+  .icon {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+
+  .goals1 {
+    margin: 0 0 10px 0;
+    padding: 0;
+  }
+  .goals3 {
+    margin: 0 0 10px 0;
+    padding: 0;
+  }
+  .goals2 {
+    margin: 0 0 10px 0;
+    padding: 0;
+  }
+
+  .team div {
+    margin: 0 0 0 0;
+  }
+
+  .group {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+
+  .sm-icon {
+    justify-self: auto;
+  }
+}
